@@ -1,0 +1,27 @@
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.bat
+
+# Compiled python files
+*.pyc
+
+# Laravel
+/vendor
+/node_modules
+.env
+
+# This file
+gitinfo.txt
